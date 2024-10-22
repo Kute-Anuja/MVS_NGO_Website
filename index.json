@@ -1,0 +1,34 @@
+{
+    "knows": [
+        {
+            "name": "Education",
+            "image": "./img/education.png",
+            "description": "Education is a fundamental right, yet many disabled individuals in rural areas do not have access to basic schooling due to physical and financial barriers. MVS wor..."
+        },
+        {
+            "name": "Healthcare",
+            "image": "./img/health.png",
+            "description": "Many Divyang individuals face additional health challenges due to their disabilities. Access to proper medical care, rehabilitation services, and assistive devices like ..."
+        },
+        {
+            "name": "Rehabilitation",
+            "image": "./img/rehabilitation.png",
+            "description": "Rehabilitation is a crucial step toward empowering disabled individuals. MVS offers comprehensive rehabilitation programs, including physical therapy, psychological supp..."
+        },
+        {
+            "name": "Employment",
+            "image": "./img/employement.jpg",
+            "description": "Despite their abilities, many disabled individuals struggle to find meaningful employment due to societal barriers and lack of workplace accommodatio..."
+        },
+        {
+            "name": "Social_Inclusion",
+            "image": "./img/social.png",
+            "description": "One of the most significant challenges Divyang individuals face is social isolation. MVS is committed to fostering a sense of community and belonging by orga..."
+        },
+        {
+            "name": "Brighter_Future",
+            "image": "./img/future.png",
+            "description": "At MVS, we believe that empowering Divyang individuals is not just about providing aid—it’s about creating a society that values and supports every member, regardless of..."
+        }
+    ]
+}
